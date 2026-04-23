@@ -1,7 +1,7 @@
 # Instagram (clone)
 ### :hammer_and_wrench: Instagram (sign-in clone) Project
 
-Building a simple webpage about dinosaurs.
+Responsive clone of the Instagram sign-in page.
 
 - HTML
 - CSS
